@@ -16,10 +16,9 @@ This repository walks through a complete data-science pipeline to analyze and pr
 
 ## Repository Structure
 
-├── data/
-│   ├── winequality-red.csv
-│   └── winequality-white.csv
-├── EDA.ipynb             # Today’s EDA work
-├── preprocessing.ipynb   # Data cleaning & feature engineering (coming soon)
-├── modeling.ipynb        # Model training & evaluation (next)
-└── README.md             # You are here
+data/ # Raw datasets
+├── winequality-red.csv # Red wine quality dataset
+EDA.ipynb # Exploratory Data Analysis (today's work)
+preprocessing.ipynb # Data cleaning and feature engineering (coming soon)
+modeling.ipynb # Model training and evaluation (next steps)
+README.md # Repository overview (you're here)
