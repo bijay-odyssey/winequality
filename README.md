@@ -1,7 +1,6 @@
 
 ## 1. README.md Template
 
-```
 # Wine Quality Analysis & Prediction
 
 **Author:** Bijay-Odyssey  
@@ -16,7 +15,6 @@ This repository walks through a complete data-science pipeline to analyze and pr
   4. Deployment / Reporting
 
 ## Repository Structure
-```
 
 ├── data/
 │   ├── winequality-red.csv
@@ -25,4 +23,3 @@ This repository walks through a complete data-science pipeline to analyze and pr
 ├── preprocessing.ipynb   # Data cleaning & feature engineering (coming soon)
 ├── modeling.ipynb        # Model training & evaluation (next)
 └── README.md             # You are here
-```
